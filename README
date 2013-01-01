@@ -1,3 +1,12 @@
 Sublime Text 2 editor Snippets for Rastgo Framework.
 
 These snippets are to be updated and new ones to be created as framework is being updated and grown up :) .
+
+- Installation:
+
+Linux Based OS (Ubunut):
+Make a folder named RastgoFramework in (~/.config/sublime-text-2/Packages/User/) and copy snippets in it.
+You are ready to go Now.
+
+By the way that you can name your folder whatever you want and it does not need to be exactly RastgoFramework in this address: (~/.config/sublime-text-2/Packages/User/).
+We named it RastgoFramework so it will be easy to recognize snippets written for rastgo Framework with other ones.
