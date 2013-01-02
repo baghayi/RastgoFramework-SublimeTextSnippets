@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+self::\$registry->view->loadTemplate(${1:templateFileName}${2:, array(
+    ${3:}
+)});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>lt</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>
